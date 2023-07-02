@@ -6,12 +6,12 @@
 <h1>Create an Azure Account and Deploy a Virtual Machine</h1>
 This guide will demonstrate how to create an account, utilize the portal, and create a virtual machine.
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments & Technologies Used</h2>
 
 - Microsoft Azure
 - Microsoft Remote Desktop (macOS) for virtual machines
 
-<h2>Configuration Steps</h2>
+<h2>Deployment & Configuration Steps</h2>
 
 <h3>Create a "FREE" Azure Account</h3>
 
