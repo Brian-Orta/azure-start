@@ -131,17 +131,16 @@ Go to [https://azure.microsoft.com/en-us/free/](https://azure.microsoft.com/en-u
 <img src="https://i.imgur.com/VlNH4O9.jpg" height="50%" width="50%" alt="Azure Step 5-4"/>
 </p>
 <br>
-
-<h2 align="center">
-🎇CONGRATULATIONS!🎇
-  <br>
-You have created your first virtual machine within Azure!
-</h2>
   
 <p align="center">
 <img src="https://i.imgur.com/PpLmQO7.jpg" height="80%" width="80%" alt="Azure Step 5-5"/>
 </p>
 <hr>
+
+<h2 align="center">
+🎇CONGRATULATIONS!🎇
+  <br>
+</h2>
 
 <h2 align="center">
 🛑REMEMBER TO DELETE YOUR RESOURCES ONCE YOU ARE DONE WITH THE LAB🛑
